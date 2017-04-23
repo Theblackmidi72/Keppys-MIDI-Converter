@@ -190,10 +190,10 @@
     <value>ตรวจสอบการปรับปรุง</value>
   </data>
   <data name="ClearListAutomaticallyStrip" xml:space="preserve">
-    <value>ล้างรายการ MIDI โดยอัตโนมัติหลังทำการแปลง</value>
+    <value>ล้างรายการมิติอัตโนมัติหลังทำการแปลง</value>
   </data>
   <data name="ClearMIDIsList" xml:space="preserve">
-    <value>ล้างรายการ MIDI</value>
+    <value>ล้างรายการมิดิ</value>
   </data>
   <data name="ClearSoundfontList" xml:space="preserve">
     <value>ล้างรายการซาวด์ฟอนต์</value>
@@ -390,7 +390,7 @@
     <value>ย้ายลง (หนึ่งรายการ)</value>
   </data>
   <data name="MoveDOWNSF" xml:space="preserve">
-    <value>บ้ายลง ▼</value>
+    <value>ย้ายลง ▼</value>
   </data>
   <data name="MoveUP" xml:space="preserve">
     <value>ย้ายขึ้น (หนึ่งรายการ)</value>
